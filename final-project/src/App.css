@@ -1,10 +1,7 @@
 
 .homeContainer {
-  /* align-items: center;
-  justify-self: center; */
   display: flex;
   flex-direction: column;
-  /* text-align: center; */
   padding-bottom: 200px;
   font-family: Futura;
   background-color: rgb(250, 250, 250);
@@ -66,16 +63,6 @@
 }
 
 
-
-.homeContainer {
-  /* align-items: center;
-  justify-self: center; */
-  display: flex;
-  flex-direction: column;
-  /* text-align: center; */
-  padding-bottom: 100px;
-  font-family: Futura;
-}
 
 @media only screen and (min-width: 769px) {
 
