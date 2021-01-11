@@ -27,13 +27,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-We are a revolutionary online education platform that provides tutoring for for those who need assistance at a free cost. Yes, at a free cost. Some of you may wonder why create a website that provides free assistance. Well, in 2020 many people were affected by the Pandemic in several ways.Many lost their jobs or even worse a family member. Due to this deadly virus,the world started transitioning to working remotely and learning remotely. Many students have found that online learning has not been a very pleasant experience. Until things go back to normal we are here to help students with resources and make online learning a great experience.
+GoodTutor is an accessible, online-learning platform designed to provide free tutoring services to students of all ages. With personalized, one-on-one lessons, GoodTutor offers the direct engagement that many students need in order to learn and succeed - at no cost.
 
-
-Why an app such as this can be helpful:
-* Ensure understanding and  explain concept in several ways
-* Improve academic performance, study habits, and intellectual independence 
-* Provide a sense of economic relief to those parents who cannot afford a private tutor
+Our tutors are volunteers who generously donate their time to provide academic assistance to whomever may need it. Whether you're in need of some extra help, or you're in a position to give some extra help, sign up to join the GoodTutor community today!
 
 
 
