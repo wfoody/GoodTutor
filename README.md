@@ -51,7 +51,7 @@ Our tutors are volunteers who generously donate their time to provide academic a
 * React Boostrap
 <!-- USAGE EXAMPLES -->
 ## Usage
-* In this web application, tutors are able to share their knowledge and availability for assistance. As for students,they are able to register, choose specific tutor depending their needs, and review previous tutors history.
+* With GoodTutor, tutors are able to share their time and knowledge to help students who need extra assistance. After students select a time to meet from the tutor's availability, they will receive an automatic email response from us to let we know we have them booked. Your tutor will email you with the link you'll use to meet for your lesson.
 ## Videos and Screenshots
 <p>goodtutor Overview</p>
 
